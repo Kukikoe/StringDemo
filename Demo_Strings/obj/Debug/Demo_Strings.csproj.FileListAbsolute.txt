@@ -1,0 +1,7 @@
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\obj\Debug\Demo_Strings.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\obj\Debug\Demo_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\bin\Debug\Demo_Strings.exe.config
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\bin\Debug\Demo_Strings.exe
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\bin\Debug\Demo_Strings.pdb
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\obj\Debug\Demo_Strings.exe
+C:\Users\Яна\source\repos\Demo_Strings\Demo_Strings\obj\Debug\Demo_Strings.pdb
